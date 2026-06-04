@@ -11,9 +11,13 @@ Tap the dice to generate a new random dice face instantly.
 * Minimal UI
 * Offline app
 
+## Play Store
+
+Play Store Link: https://play.google.com/store/apps/details?id=in.nirajwaghtech.die
+
 ## Download
 
-**[Download APK](https://github.com/nirajwagh/die/releases/latest)**
+**[Download APK](https://github.com/nirajwagh/random_die_android_app/releases/latest)**
 
 ## Screenshots:
 
